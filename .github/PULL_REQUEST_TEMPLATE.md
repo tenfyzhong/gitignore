@@ -1,12 +1,32 @@
-**Reasons for making this change:**
-<!-- Include your relationship to the project and what you expect to get from this change. -->
+### Link to the application or project's homepage
 
 _TODO_
+<!---
+Link to the project or application's homepage.
+--->
 
-**Links to documentation supporting these rule changes:**
+### Reasons for making this change
 
 _TODO_
+<!---
+Please provide some background for this change.
+--->
 
-If this is a new template:
+### Links to documentation supporting these rule changes
 
- - **Link to application or project’s homepage**: _TODO_
+_TODO_
+<!---
+Link to the project docs, any existing .gitignore files that project may have in its own repo, etc
+--->
+
+### Merge and Approval Steps
+
+<!---
+Please ensure you accomplish these tasks in order to get your contribution accepted
+--->
+- [ ] I have read the [contribution guidelines](https://github.com/github/gitignore/tree/main?tab=readme-ov-file#contributing-guidelines) and understand my PR will be closed if it doesn't meet these guidelines
+
+<!---
+Once done, please wait for a GitHub maintainer to review your PR and if necessary,
+work with them to address any findings.
+--->
